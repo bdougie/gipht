@@ -1,6 +1,6 @@
 # gipht
 
-> a GitHub App built with [probot](https://github.com/probot/probot) that 
+> a GitHub App built with [probot](https://github.com/probot/probot) that sends giphts
 
 ## Setup
 
