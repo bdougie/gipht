@@ -8,7 +8,7 @@
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/bdougie-gipht)
 
-To get your own Glitch-hosted Guys Bot up-and-running, start by clicking the "Remix on Glitch" button above, and follow the steps below:
+To get your own Glitch-hosted giphy Bot up-and-running, start by clicking the "Remix on Glitch" button above, and follow the steps below:
 
 1. [Configure a new app on Github](https://github.com/settings/apps/new).
     - For the Webhook URL, use `https://www.example.com`. This will be replaced later.
